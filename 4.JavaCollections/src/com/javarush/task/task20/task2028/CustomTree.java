@@ -5,7 +5,7 @@ import java.util.*;
 
 
 /* 
-Построй дерево(1)
+Построй дерево (1)
 */
 public class CustomTree extends AbstractList implements  Cloneable, Serializable  {
     public static void main(String[] args) {
